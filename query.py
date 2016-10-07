@@ -1,3 +1,5 @@
+# this was taken from https://code.activestate.com/recipes/577058/ and modified to work with Python 3.5
+
 import sys
 def query_yes_no(question, default="yes"):
     """Ask a yes/no question via input() and return their answer.
